@@ -20,6 +20,8 @@ An end-to-end **distributed machine learning** project that predicts continuous 
 | Baseline RMSE (mean)    | ~0.240    | Sample submission level            |
 | **Improvement**         | **74.2%** | Top leaderboard score guaranteed   |
 
+### Star Visualization – Curvature vs Risk
+![Curvature vs Risk](Visualizations/3_curvature_scatter.png)
 
 
 ### How to Run (2 minutes)
