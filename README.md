@@ -21,7 +21,7 @@ An end-to-end **distributed machine learning** project that predicts continuous 
 | **Improvement**         | **74.2%** | Top leaderboard score guaranteed   |
 
 ### Star Visualization – Curvature vs Risk
-![Curvature vs Risk](Visualizations/3_curvature_scatter.png)
+![Curvature vs Risk](Visualization/3_curvature_scatter.png)
 
 
 ### How to Run (2 minutes)
